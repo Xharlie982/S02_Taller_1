@@ -1,5 +1,3 @@
-# S02_Taller_1
-
 # 🚀 API REST con Node.js + SQLite3
 
 Proyecto de una **API REST** para gestionar tareas (*todos*) usando **Node.js (Express)** y **SQLite3**.  
