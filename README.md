@@ -49,6 +49,6 @@ cd S02_Taller_1
 
 # 5) Instalar dependencias e iniciar el servidor
 npm install
-npm run start
+npm run dev
 # -> API escuchando en http://localhost:3000 (expuesto en 0.0.0.0 dentro del código)
 ```
