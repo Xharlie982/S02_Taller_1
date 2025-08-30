@@ -54,6 +54,8 @@ npm run start
 
 # 6) Seguridad (abrir puerto 3000 en el Security Group de AWS)
 #   - EC2 > Instances > selecciona tu instancia
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/ec723f04-ce85-4874-a8ef-7f0313831cdb" />
+
 #   - Pestaña "Security" > clic en el Security group
 #   - Edit inbound rules > Add rule:
 #       Type: Custom TCP
