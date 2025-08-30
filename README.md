@@ -51,7 +51,7 @@ cd S02_Taller_1
 npm install
 npm run start
 # -> API escuchando en http://localhost:3000 (expuesto en 0.0.0.0 dentro del código)
-
+```
 # 6) Seguridad (abrir puerto 3000 en el Security Group de AWS)
 #   - EC2 > Instances > selecciona tu instancia
 #   - Pestaña "Security" > clic en el Security group
