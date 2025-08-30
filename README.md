@@ -24,7 +24,7 @@ La base de datos es un archivo local (`app.db`) que se crea automáticamente al 
 
 ## 🖥️ Comandos usados en la VM de AWS (EC2) para correr el servidor
 
-> Ejecutados **en la instancia Ubuntu** (vía SSH). Asegúrate de abrir el **puerto 3000** en el *Security Group* y usar la **IP pública** de tu instancia para probar en Postman.
+> Ejecutados **en la instancia Ubuntu** (vía SSH). Abrí el **puerto 3000** en el *Security Group* y usé la **IP pública** de mi instancia para probar en Postman.
 
 ```bash
 # 1) Utilidades básicas
